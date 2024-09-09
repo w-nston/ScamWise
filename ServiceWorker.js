@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-ScamWise-0.1";
 const contentToCache = [
     "Build/ScamWise.loader.js",
-    "Build/ScamWise.framework.js.gz",
-    "Build/ScamWise.data.gz",
-    "Build/ScamWise.wasm.gz",
+    "Build/ScamWise.framework.js",
+    "Build/ScamWise.data",
+    "Build/ScamWise.wasm",
     "TemplateData/style.css"
 
 ];
